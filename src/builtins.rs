@@ -1,0 +1,3 @@
+pub fn print_value(v: i64) {
+    println!("{}", v);
+}
